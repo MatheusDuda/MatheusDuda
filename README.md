@@ -1,5 +1,4 @@
-### Olá, sou Matheus Duda👋
-
+ 
 - 🖥 Cursando ciência da computação
 - 📚 Estudando Java
 - 📧 Contate-me no email: matheusf.duda14@gmail.com
